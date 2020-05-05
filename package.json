@@ -1,0 +1,15 @@
+{
+  "name": "simdoorlock",
+  "version": "0.1.0",
+  "description": "Test WebThing API as a door lock with array of users.",
+  "main": "SimDoorLock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Thiessen",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^7.0.3",
+    "webthing": "^0.12.2"
+  }
+}
